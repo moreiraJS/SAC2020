@@ -1,5 +1,5 @@
 # Floss-refactoring-data
-Floss refactoring details extracted from the repositories of 45 open-source java projects
+Floss refactoring details extracted from the repositories of 16 open-source java projects
 
 CSV's Structure
 
